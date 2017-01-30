@@ -13,7 +13,7 @@ public class PruebaGitHub {
 				n -= 1;
 			} while (n > 0 && n <= 5);
 		}
-
+in.close();
 	}
 
 }
