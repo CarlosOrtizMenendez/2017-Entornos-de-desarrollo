@@ -1,7 +1,13 @@
 import java.util.Scanner;
 
 public class PruebaGitHub {
-
+int a = 2;
+	public int getA() {
+	return a;
+}
+public void setA(int a) {
+	this.a = a;
+}
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		byte n;
