@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class PruebaGitHub {
 
 	public static void main(String[] args) {
@@ -13,7 +12,7 @@ public class PruebaGitHub {
 				n -= 1;
 			} while (n > 0 && n <= 5);
 		}
-in.close();
+		in.close();
 	}
 
 }
